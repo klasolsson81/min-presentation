@@ -1,8 +1,7 @@
-:school_satchel: Saker jag vill lära mig<br><br>>
-	1. GIT & GITHUB<br>
-	2. C#<br>
-	3. Webbutveckling (HTML, CSS, JavaScript)<br>
+:school_satchel: Saker jag vill lära mig
 
-	:snowflake:
-	:snowflake:
-	:snowflake:
+1. GIT & GITHUB
+2. C#
+3. Webbutveckling (HTML, CSS, JavaScript)
+
+:snowflake: :snowflake: :snowflake:
