@@ -1,0 +1,28 @@
+Till: Mig själv, 7 mars 2026
+Från: Mig själv, 6 september 2025
+
+Hej framtida jag,
+
+Här sitter jag, precis i början av resan på NBI/Handelsakademin. Allt är nytt, spännande och ärligt talat ganska överväldigande. Jag skriver det här för att du ska kunna se tillbaka och förhoppningsvis le åt hur långt du har kommit.
+
+Vad jag hoppas du kan då (Mars 2026)
+Jag hoppas verkligen att du har landat i allt det här. Att C#-syntaxen sitter i ryggmärgen och att du inte längre behöver googla grundläggande saker som skillnaden på IEnumerable och IList. Jag hoppas du har byggt din första fullstack-applikation med ASP.NET Core och Entity Framework Core, och att du känner dig stolt över den.
+
+Mest av allt hoppas jag att du känner dig redo och självsäker inför din första LIA. Att du kan titta på en bugg eller en ny feature och tänka "det här kan jag lösa", istället för den där lilla panikkänslan som dyker upp nu. Jag hoppas du förstår och kan använda designmönster, och inte bara vet vad de heter.
+
+Vad jag kämpar med nu (September 2025)
+Just nu känns allt som en anstormning av information. Git-flödet, med rebase, merge och pull requests, känns fortfarande lite skakigt och jag är livrädd för att förstöra något på riktigt. OOP-koncepten är logiska när lärarna förklarar dem, men att applicera dem själv från ett tomt Program.cs är en helt annan sak.
+
+Jag kämpar med att lita på processen och att inte jämföra mig med de i klassen som verkar fatta allt direkt. Impostorsyndromet är verkligen påtagligt. Varje lyckad kompilering känns som en seger, men varje röd "error"-våg känns som ett bevis på att jag inte hör hemma här.
+
+Vad jag vill att du ska minnas
+Glöm inte bort känslan av att se ditt allra första konsolprogram skriva ut "Hello, World!". Glöm inte frustrationen som sedan vändes till ren eufori när du löste din första riktiga bugg efter timmars sökande.
+
+Minnas de sena kvällarna med klasskamraterna, där ni hjälptes åt att förstå en svår uppgift. Minns den där "Aha!"-känslan när ett komplext koncept plötsligt bara klickade.
+
+Och viktigast av allt, glöm inte bort varför du började: nyfikenheten, viljan att skapa och lösa problem. Oavsett hur stressigt det är med LIA-platser eller svåra kurser, tappa inte bort den gnistan.
+
+Fortsätt kämpa. Jag litar på att du har gjort oss båda stolta.
+
+Med vänlig hälsning,
+Ditt förflutna jag
